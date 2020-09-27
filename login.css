@@ -1,0 +1,30 @@
+.container{
+    background-color: red;
+    width: 40vh;
+    height: 50vh;
+    margin: auto;
+}
+label{
+    display: block;
+    text-align: center;
+    margin: 30px auto auto auto;
+}
+input{
+    margin: auto;
+    border-radius: 7%;
+    width: 190px;
+    height: 30px;
+}
+form{
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 2rem;
+}
+Button{
+    width: 80px;
+    height: 30px;
+    margin-top: 50px;
+}
+body{
+    background-image: url("back.png");
+}
